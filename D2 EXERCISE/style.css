@@ -1,0 +1,85 @@
+#logo{
+    text-align: center;
+    
+}
+
+.logoimg{
+    width: 200px;
+}
+
+.primoT{
+    color: #177;
+    padding: 0.5em;
+    background-color: #f5f5dc;
+    border-top: solid #cece75;
+    border-width: 2px;
+    
+}
+
+#padre{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    width: 50%;
+    text-align: left;
+}
+.sally{
+    color: #808080;
+    text-align: center;
+}
+
+.paragrafo{
+    color: #ffa500;
+    display: block;
+    border-left: solid #ffa500;
+    border-width: 2px;
+    padding-left: 10px;
+    
+}
+
+.titolo{
+    text-align: center;
+    margin: 10px 50px 20px;
+  
+   
+}
+
+.titolodue{
+    padding: 5px;
+    margin-block-end: 0.5em;
+}
+
+#padredue{
+    border-top: solid #b9ffff ;
+    border-width: 2px;
+
+ 
+
+}
+
+.span{
+    display: block;
+}
+
+
+#padretre{
+    padding: 10px;
+    border-top: solid #b9ffff;
+}
+
+.liste{
+    line-height: 2em;
+}
+
+.img{
+    border-radius: 2%;
+}
+
+.link{
+    color: #177;
+}
+
+.fondo{
+    padding-inline-start: 40px;
+}
